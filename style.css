@@ -3,7 +3,7 @@ body {
 	height: auto;
 	font-family: "Seoge UI", Arial;
 	font-weight: 300;
-	background: black;
+	background: linear-gradient(180deg,black,darkblue);
 	color: white;
 }
  body h1 {
