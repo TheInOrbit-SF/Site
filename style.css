@@ -1,4 +1,6 @@
 body {
+	width:100%;
+	height: auto;
 	font-family: "Seoge UI", Arial;
 	font-weight: 300;
 	background: black;
@@ -10,6 +12,7 @@ body {
 	font-size: 50px;
  }
 .hero{
+	width: 100%;
 	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("download.jpeg");
 	height: 100vh;
 	background-position: center;
