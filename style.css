@@ -45,7 +45,7 @@ body {
 	list-style: none;
 	padding:0 ;
 	margin: 0;
-	background-color: linear-gradient(240deg,midnightblue,black);
+	background: linear-gradient(240deg,midnightblue,black);
 }
 .site-nav a{
 	display: block;
@@ -54,7 +54,7 @@ body {
 	text-decoration: none;
 	color: beige;
 	font-weight: 700;
-	transform: perspetive(700px) rotateX(0deg) rotateY(0deg);
+	transform: perspective(700px) rotateX(0deg) rotateY(0deg);
 	transition: transform 220ms ease, box-shadow 220ms ease;
 }
 .site-nav a:hover,.site-nav a:active{
