@@ -11,7 +11,14 @@ body {
 	margin: 0;
 	background-attachment: fixed;
 }
- body h1 {
+body::before{
+	content:"";
+	position:fixed;
+	inset:0;
+	pointer-events:none;
+	background: radial-gradient(180px circle at var(--x) var(--y),rgba(255,255,255,.15),transparent);
+}
+body h1 {
 	text-align: center;
 	font-weight: 1000;
 	font-size: clamp(2rem,8vm,10rem);
