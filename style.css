@@ -1,3 +1,6 @@
+html{
+	cursor: crosshair;
+}
 body {
 	width:100%;
 	height: auto;
@@ -13,7 +16,7 @@ body {
  }
 .hero{
 	width: 100%;
-	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("matrix-space-background-12534356.webp");
+	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images.jpeg");
 	height: 100vh;
 	background-position: center;
 	background-repeat: no-repeat;
