@@ -16,7 +16,7 @@ body {
 	font-size: 50px;
  }
 .hero{
-	width: 100%;
+	max-width: 100%;
 	background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("images.jpeg");
 	height: 100vh;
 	background-position: center;
