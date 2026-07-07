@@ -9,6 +9,7 @@ body {
 	background: linear-gradient(180deg,black,darkblue);
 	color: white;
 	margin: 0;
+	background-attachment: fixed;
 }
  body h1 {
 	text-align: center;
@@ -62,3 +63,13 @@ body {
 	background: linear-gradinet(120deg, midnightblue,black);
 	color: azure;
 }
+.card {
+	overflow: hidden;
+	background: midnightblue;
+	opacity: 30%;
+	border-radius: 18px;
+	box-shadow:0 20px 40px rgba(15,23,42,0.35);
+	display: grid;
+	gap: 0;
+}
+	
