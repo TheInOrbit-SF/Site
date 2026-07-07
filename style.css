@@ -8,6 +8,7 @@ body {
 	font-weight: 300;
 	background: linear-gradient(180deg,black,darkblue);
 	color: white;
+	margin: 0;
 }
  body h1 {
 	text-align: center;
