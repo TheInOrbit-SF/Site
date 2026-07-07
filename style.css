@@ -65,11 +65,12 @@ body {
 }
 .card {
 	overflow: hidden;
-	background: midnightblue;
+	background: linear-gradient(240deg,midnightblue,transparent);
 	opacity: 30%;
 	border-radius: 18px;
 	box-shadow:0 20px 40px rgba(15,23,42,0.35);
 	display: grid;
 	gap: 0;
+	margin: 20px;
 }
 	
