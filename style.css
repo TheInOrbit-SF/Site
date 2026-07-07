@@ -16,7 +16,8 @@ body::before{
 	position:fixed;
 	inset:0;
 	pointer-events:none;
-	background: radial-gradient(180px circle at var(--x) var(--y),rgba(255,255,255,.15),transparent);
+	z-index: 1;
+	background: radial-gradient(50px circle at var(--x) var(--y),rgba(255,255,255,.15),transparent);
 }
 body h1 {
 	text-align: center;
