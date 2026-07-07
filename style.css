@@ -45,7 +45,7 @@ body {
 	list-style: none;
 	padding:0 ;
 	margin: 0;
-	
+	backgriund-color: linear-gradient(240deg,midnightblue,black);
 }
 .site-nav a{
 	display: block;
